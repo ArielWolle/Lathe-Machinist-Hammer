@@ -1,5 +1,8 @@
+![Deconstructed](https://user-images.githubusercontent.com/36164850/129427886-16bed33e-453b-49a1-af57-15f602c5aec6.jpeg)
 # Lathe-Machinist-Hammer
 Making a machinist hammer based off of BlondiHacks design
+
+NOTE: no drawing is provided as its under a paywall
 
 ![Assembled](https://user-images.githubusercontent.com/36164850/129427867-c6c90e94-dff7-4bea-84b7-b77bdf11c945.jpeg)
 
@@ -20,3 +23,5 @@ Starting off this project I knew that I would need 3 items, 3/4 inch aluminium r
 BUILDING THE PROJECT
 
 Flowwing Blondihacks i first made the handle, then the top of the hammer and lastly the two face plates. 
+
+![Deconstructed](https://user-images.githubusercontent.com/36164850/129427886-16bed33e-453b-49a1-af57-15f602c5aec6.jpeg)
