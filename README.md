@@ -1,4 +1,3 @@
-![Deconstructed](https://user-images.githubusercontent.com/36164850/129427886-16bed33e-453b-49a1-af57-15f602c5aec6.jpeg)
 # Lathe-Machinist-Hammer
 Making a machinist hammer based off of BlondiHacks design
 
