@@ -23,4 +23,8 @@ BUILDING THE PROJECT
 
 Flowwing Blondihacks i first made the handle, then the top of the hammer and lastly the two face plates. 
 
+MISTAKES
+
+I made plenty of mistakes as this is my first every lathe project. The brass face place fits very poorly on the machine, the length of each thread is wrong, the knurling is uneven and the handle doesnt thread deep enough into the top of the hammer. This hammer is still very functional but I may remake it in a few months time to see my improvent on the lathe.
+
 ![Deconstructed](https://user-images.githubusercontent.com/36164850/129427886-16bed33e-453b-49a1-af57-15f602c5aec6.jpeg)
